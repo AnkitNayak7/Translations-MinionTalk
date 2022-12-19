@@ -12,6 +12,7 @@ function getTranslation(text){
 
 function errorHandler(error){
     console.log("error occured", error)
+    outputDiv.innerText = "Limit Exceed: Please try after sometime"
 }
 
 function clickHandler(){
