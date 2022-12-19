@@ -1,5 +1,5 @@
 # Translations-MinionTalk
-[LIVE URL](/)
+[LIVE URL](translations-miniontalk.netlify.app) ("translations-miniontalk.netlify.app")
 
 # Project Description
 A application which allows to see how minion speaks. You just have to enter the text and the app will automatically translate the text into minion's language.This app makes use of external API for the operations to happen.
