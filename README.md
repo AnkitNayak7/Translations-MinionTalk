@@ -13,7 +13,7 @@
 A application which allows to see how minion speaks. You just have to enter the text and the app will automatically translate the text into minion's language.This app makes use of external API for the operations to happen. </br>
 Click here https://translations-miniontalk.netlify.app/ to translate your message.
 
-### Features
+### How it works
 * Takes text as input from user.
 * Translates text to the way minion speaks on clicking "Translate" button <br/>
 ![image](https://user-images.githubusercontent.com/54680642/208746888-c36e6fc7-ff68-40f1-9432-67ce335c25c6.png)
